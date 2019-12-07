@@ -1,3 +1,3 @@
-# typescript-dkxlvn
+# Snake Game
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-dkxlvn)
+With VanillaJS and Canvas
