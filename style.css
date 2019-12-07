@@ -1,0 +1,13 @@
+h4 {
+    margin-left: 300px;
+    margin-bottom: 0px;
+    font-family: cursive;
+    font-variant: all-petite-caps;
+    font-size: larger; 
+}
+
+canvas {
+    border: 2px solid #5c83c5;
+    margin: 10px 200px;
+    background-color: khaki;
+}
